@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "edges": [
+    {
+      "from": "A",
+      "to": "B",
+      "transit_time": 2
+    },
+    {
+      "from": "A",
+      "to": "C",
+      "transit_time": 5
+    },
+    {
+      "from": "B",
+      "to": "C",
+      "transit_time": 1
+    },
+    {
+      "from": "B",
+      "to": "D",
+      "transit_time": 2
+    },
+    {
+      "from": "C",
+      "to": "D",
+      "transit_time": 3
+    },
+    {
+      "from": "C",
+      "to": "E",
+      "transit_time": 1
+    },
+    {
+      "from": "D",
+      "to": "E",
+      "transit_time": 2
+    }
+  ]
+}
