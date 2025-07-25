@@ -32,7 +32,7 @@ def sp_from_source(graph, source):
         path.reverse()
         result[node] = {
             "path": path,
-            "time": times[node],
+            "time": times[node]
         }
 
     return result
@@ -69,7 +69,7 @@ def sp_between_two_nodes(graph, source, target):
     path.reverse()
     result[source] = {
         "path": path,
-        "time": times[target],
+        "time": times[target]
     }
     
     return result
@@ -82,5 +82,14 @@ def sp_to_target_node(graph, target):
         if node != target:
             data = sp_between_two_nodes(graph, node, target) # get shortest path between node and target
             result[node] = data[node]  # add that to result
+
+    return result
+
+# Shortest paths between all pairs of nodes
+def sp_between_all_pairs(graph):
+
+    result = {}
+    for source in graph:
+        result[source] = sp_from_source(graph, source) # get shortest path from this sorce to all nodes
 
     return result

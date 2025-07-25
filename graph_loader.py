@@ -1,9 +1,9 @@
 import json
 
-def load_graph(filepath):
+def load_graph(filename):
 
     # Read JSON file
-    with open("example_graph.json", 'r') as f:
+    with open(filename, 'r') as f:
         data = json.load(f)
 
     # Extract nodes and edges
