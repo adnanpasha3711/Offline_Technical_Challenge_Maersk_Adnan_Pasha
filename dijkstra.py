@@ -71,9 +71,16 @@ def sp_between_two_nodes(graph, source, target):
         "path": path,
         "time": times[target],
     }
+    
     return result
 
-    # Print final shortest paths and times
-    print(result)
-    for node in result:
-        print(f"{source} to {node}: path = {result[node]['path']}, time = {result[node]['time']}")
+# Shortest paths to a single target from every other node
+def sp_to_target_node(graph, target):
+
+    result = {}
+    for node in graph:
+        if node != target:
+            data = sp_between_two_nodes(graph, node, target) # get shortest path between node and target
+            result[node] = data[node]  # add that to result
+
+    return result
