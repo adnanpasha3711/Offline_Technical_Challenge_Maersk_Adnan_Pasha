@@ -1,0 +1,428 @@
+{
+  "routes": [
+    {
+      "from": "cf",
+      "to": "cf",
+      "path": [
+        "cf"
+      ],
+      "transit_time": 0
+    },
+    {
+      "from": "cf",
+      "to": "yk",
+      "path": [
+        "cf",
+        "bt",
+        "am",
+        "yk"
+      ],
+      "transit_time": 145
+    },
+    {
+      "from": "cf",
+      "to": "lg",
+      "path": [
+        "cf",
+        "bt",
+        "lg"
+      ],
+      "transit_time": 133
+    },
+    {
+      "from": "cf",
+      "to": "hp",
+      "path": [
+        "cf",
+        "bt",
+        "hp"
+      ],
+      "transit_time": 139
+    },
+    {
+      "from": "cf",
+      "to": "mc",
+      "path": [
+        "cf",
+        "bt",
+        "lg",
+        "mc"
+      ],
+      "transit_time": 178
+    },
+    {
+      "from": "cf",
+      "to": "ec",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 194
+    },
+    {
+      "from": "cf",
+      "to": "wz",
+      "path": [
+        "cf",
+        "bt",
+        "wz"
+      ],
+      "transit_time": 102
+    },
+    {
+      "from": "cf",
+      "to": "zq",
+      "path": [
+        "cf",
+        "bt",
+        "js",
+        "zq"
+      ],
+      "transit_time": 200
+    },
+    {
+      "from": "cf",
+      "to": "bs",
+      "path": [
+        "cf",
+        "bt",
+        "js",
+        "bs"
+      ],
+      "transit_time": 182
+    },
+    {
+      "from": "cf",
+      "to": "rc",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "gl",
+        "rc"
+      ],
+      "transit_time": 196
+    },
+    {
+      "from": "cf",
+      "to": "qx",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "gl",
+        "qx"
+      ],
+      "transit_time": 181
+    },
+    {
+      "from": "cf",
+      "to": "lw",
+      "path": [
+        "cf",
+        "bt",
+        "js",
+        "bw",
+        "yv",
+        "lw"
+      ],
+      "transit_time": 184
+    },
+    {
+      "from": "cf",
+      "to": "jm",
+      "path": [
+        "cf",
+        "bt",
+        "am",
+        "jm"
+      ],
+      "transit_time": 186
+    },
+    {
+      "from": "cf",
+      "to": "bw",
+      "path": [
+        "cf",
+        "bt",
+        "js",
+        "bw"
+      ],
+      "transit_time": 156
+    },
+    {
+      "from": "cf",
+      "to": "ux",
+      "path": [
+        "cf",
+        "bt",
+        "hp",
+        "ux"
+      ],
+      "transit_time": 170
+    },
+    {
+      "from": "cf",
+      "to": "kg",
+      "path": [
+        "cf",
+        "bt",
+        "js",
+        "bw",
+        "kg"
+      ],
+      "transit_time": 216
+    },
+    {
+      "from": "cf",
+      "to": "mw",
+      "path": [
+        "cf",
+        "bt",
+        "lg",
+        "mw"
+      ],
+      "transit_time": 194
+    },
+    {
+      "from": "cf",
+      "to": "co",
+      "path": [
+        "cf",
+        "mr",
+        "cw",
+        "co"
+      ],
+      "transit_time": 186
+    },
+    {
+      "from": "cf",
+      "to": "ps",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "gl",
+        "ps"
+      ],
+      "transit_time": 250
+    },
+    {
+      "from": "cf",
+      "to": "js",
+      "path": [
+        "cf",
+        "bt",
+        "js"
+      ],
+      "transit_time": 107
+    },
+    {
+      "from": "cf",
+      "to": "wr",
+      "path": [
+        "cf",
+        "bt",
+        "wr"
+      ],
+      "transit_time": 147
+    },
+    {
+      "from": "cf",
+      "to": "dq",
+      "path": [
+        "cf",
+        "bt",
+        "hp",
+        "dq"
+      ],
+      "transit_time": 234
+    },
+    {
+      "from": "cf",
+      "to": "ek",
+      "path": [
+        "cf",
+        "mr",
+        "ek"
+      ],
+      "transit_time": 115
+    },
+    {
+      "from": "cf",
+      "to": "gu",
+      "path": [
+        "cf",
+        "bt",
+        "hp",
+        "gu"
+      ],
+      "transit_time": 225
+    },
+    {
+      "from": "cf",
+      "to": "am",
+      "path": [
+        "cf",
+        "bt",
+        "am"
+      ],
+      "transit_time": 126
+    },
+    {
+      "from": "cf",
+      "to": "sg",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "sg"
+      ],
+      "transit_time": 213
+    },
+    {
+      "from": "cf",
+      "to": "mr",
+      "path": [
+        "cf",
+        "mr"
+      ],
+      "transit_time": 41
+    },
+    {
+      "from": "cf",
+      "to": "pm",
+      "path": [
+        "cf",
+        "mr",
+        "cw",
+        "co",
+        "pm"
+      ],
+      "transit_time": 227
+    },
+    {
+      "from": "cf",
+      "to": "sv",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "sv"
+      ],
+      "transit_time": 221
+    },
+    {
+      "from": "cf",
+      "to": "pk",
+      "path": [
+        "cf",
+        "bt",
+        "js",
+        "pk"
+      ],
+      "transit_time": 156
+    },
+    {
+      "from": "cf",
+      "to": "yh",
+      "path": [
+        "cf",
+        "bt",
+        "yh"
+      ],
+      "transit_time": 133
+    },
+    {
+      "from": "cf",
+      "to": "yv",
+      "path": [
+        "cf",
+        "bt",
+        "js",
+        "bw",
+        "yv"
+      ],
+      "transit_time": 168
+    },
+    {
+      "from": "cf",
+      "to": "if",
+      "path": [
+        "cf",
+        "bt",
+        "am",
+        "jm",
+        "if"
+      ],
+      "transit_time": 217
+    },
+    {
+      "from": "cf",
+      "to": "gl",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "gl"
+      ],
+      "transit_time": 163
+    },
+    {
+      "from": "cf",
+      "to": "cw",
+      "path": [
+        "cf",
+        "mr",
+        "cw"
+      ],
+      "transit_time": 135
+    },
+    {
+      "from": "cf",
+      "to": "od",
+      "path": [
+        "cf",
+        "bt",
+        "am",
+        "od"
+      ],
+      "transit_time": 169
+    },
+    {
+      "from": "cf",
+      "to": "bt",
+      "path": [
+        "cf",
+        "bt"
+      ],
+      "transit_time": 64
+    },
+    {
+      "from": "cf",
+      "to": "hg",
+      "path": [
+        "cf",
+        "bt",
+        "yh",
+        "hg"
+      ],
+      "transit_time": 208
+    },
+    {
+      "from": "cf",
+      "to": "zr",
+      "path": [
+        "cf",
+        "bt",
+        "yh",
+        "zr"
+      ],
+      "transit_time": 180
+    }
+  ]
+}

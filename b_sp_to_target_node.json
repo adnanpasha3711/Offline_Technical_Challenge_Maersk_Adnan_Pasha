@@ -1,0 +1,430 @@
+{
+  "routes": [
+    {
+      "from": "cf",
+      "to": "ec",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 194
+    },
+    {
+      "from": "yk",
+      "to": "ec",
+      "path": [
+        "yk",
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 93
+    },
+    {
+      "from": "lg",
+      "to": "ec",
+      "path": [
+        "lg",
+        "yh",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 123
+    },
+    {
+      "from": "hp",
+      "to": "ec",
+      "path": [
+        "hp",
+        "yv",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 107
+    },
+    {
+      "from": "mc",
+      "to": "ec",
+      "path": [
+        "mc",
+        "hp",
+        "yv",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 153
+    },
+    {
+      "from": "wz",
+      "to": "ec",
+      "path": [
+        "wz",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 104
+    },
+    {
+      "from": "zq",
+      "to": "ec",
+      "path": [
+        "zq",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 113
+    },
+    {
+      "from": "bs",
+      "to": "ec",
+      "path": [
+        "bs",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 146
+    },
+    {
+      "from": "rc",
+      "to": "ec",
+      "path": [
+        "rc",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 64
+    },
+    {
+      "from": "qx",
+      "to": "ec",
+      "path": [
+        "qx",
+        "ec"
+      ],
+      "transit_time": 13
+    },
+    {
+      "from": "lw",
+      "to": "ec",
+      "path": [
+        "lw",
+        "yv",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 80
+    },
+    {
+      "from": "jm",
+      "to": "ec",
+      "path": [
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 23
+    },
+    {
+      "from": "bw",
+      "to": "ec",
+      "path": [
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 52
+    },
+    {
+      "from": "ux",
+      "to": "ec",
+      "path": [
+        "ux",
+        "if",
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 103
+    },
+    {
+      "from": "kg",
+      "to": "ec",
+      "path": [
+        "kg",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 112
+    },
+    {
+      "from": "mw",
+      "to": "ec",
+      "path": [
+        "mw",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 79
+    },
+    {
+      "from": "co",
+      "to": "ec",
+      "path": [
+        "co",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 113
+    },
+    {
+      "from": "ps",
+      "to": "ec",
+      "path": [
+        "ps",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 118
+    },
+    {
+      "from": "js",
+      "to": "ec",
+      "path": [
+        "js",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 101
+    },
+    {
+      "from": "wr",
+      "to": "ec",
+      "path": [
+        "wr",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 47
+    },
+    {
+      "from": "dq",
+      "to": "ec",
+      "path": [
+        "dq",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 129
+    },
+    {
+      "from": "ek",
+      "to": "ec",
+      "path": [
+        "ek",
+        "js",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 179
+    },
+    {
+      "from": "gu",
+      "to": "ec",
+      "path": [
+        "gu",
+        "zq",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 171
+    },
+    {
+      "from": "am",
+      "to": "ec",
+      "path": [
+        "am",
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 83
+    },
+    {
+      "from": "sg",
+      "to": "ec",
+      "path": [
+        "sg",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 103
+    },
+    {
+      "from": "mr",
+      "to": "ec",
+      "path": [
+        "mr",
+        "cw",
+        "yk",
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 234
+    },
+    {
+      "from": "pm",
+      "to": "ec",
+      "path": [
+        "pm",
+        "if",
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 137
+    },
+    {
+      "from": "sv",
+      "to": "ec",
+      "path": [
+        "sv",
+        "wr",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 121
+    },
+    {
+      "from": "pk",
+      "to": "ec",
+      "path": [
+        "pk",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 98
+    },
+    {
+      "from": "yh",
+      "to": "ec",
+      "path": [
+        "yh",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 112
+    },
+    {
+      "from": "yv",
+      "to": "ec",
+      "path": [
+        "yv",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 64
+    },
+    {
+      "from": "if",
+      "to": "ec",
+      "path": [
+        "if",
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 54
+    },
+    {
+      "from": "gl",
+      "to": "ec",
+      "path": [
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 31
+    },
+    {
+      "from": "cw",
+      "to": "ec",
+      "path": [
+        "cw",
+        "yk",
+        "jm",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 140
+    },
+    {
+      "from": "od",
+      "to": "ec",
+      "path": [
+        "od",
+        "ec"
+      ],
+      "transit_time": 89
+    },
+    {
+      "from": "bt",
+      "to": "ec",
+      "path": [
+        "bt",
+        "wr",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 130
+    },
+    {
+      "from": "hg",
+      "to": "ec",
+      "path": [
+        "hg",
+        "ps",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 168
+    },
+    {
+      "from": "zr",
+      "to": "ec",
+      "path": [
+        "zr",
+        "yh",
+        "bw",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 159
+    }
+  ]
+}

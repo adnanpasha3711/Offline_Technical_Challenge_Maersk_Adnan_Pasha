@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "from": "cf",
+      "to": "ec",
+      "path": [
+        "cf",
+        "bt",
+        "wr",
+        "gl",
+        "qx",
+        "ec"
+      ],
+      "transit_time": 194
+    }
+  ]
+}
