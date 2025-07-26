@@ -1,0 +1,10 @@
+{
+  "nodes": ["D", "E", "F", "G"],
+  "edges": [
+    { "from": "D", "to": "E", "transit_time": 1 },
+    { "from": "E", "to": "F", "transit_time": 1 },
+    { "from": "F", "to": "G", "transit_time": 1 },
+    { "from": "G", "to": "D", "transit_time": 1 },
+    { "from": "D", "to": "F", "transit_time": 2 }
+  ]
+}

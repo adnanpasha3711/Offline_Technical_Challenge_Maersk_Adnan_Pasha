@@ -1,0 +1,12 @@
+{
+  "nodes": ["H", "I", "J", "K", "L"],
+  "edges": [
+    { "from": "H", "to": "I", "transit_time": 2 },
+    { "from": "H", "to": "J", "transit_time": 5 },
+    { "from": "I", "to": "J", "transit_time": 1 },
+    { "from": "I", "to": "K", "transit_time": 2 },
+    { "from": "J", "to": "K", "transit_time": 3 },
+    { "from": "J", "to": "L", "transit_time": 1 },
+    { "from": "K", "to": "L", "transit_time": 2 }
+  ]
+}
